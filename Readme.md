@@ -21,7 +21,7 @@ I'm **Harjot Singh**, a passionate frontend developer and creative problem-solve
 - **CMS & Platforms:** WordPress
 - **UI/UX Design:** Figma, Adobe Applications (Photoshop, Illustrator)
 - **Other Tools:** Git, GitHub, 3D Printing
-- **Mobile Development:** React Native
+- **Mobile Development:** React Native, Expo
 
 ---
 
